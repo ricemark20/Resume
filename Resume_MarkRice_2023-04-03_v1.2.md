@@ -20,6 +20,7 @@ soldering, Trained in FDA documentation.                           <br>
 Computer skills: Proficient in Windows 10 and Fedora Linux.
 
 <br>
+
 **EXPERIENCE**
 
 ---
