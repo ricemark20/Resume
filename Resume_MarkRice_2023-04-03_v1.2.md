@@ -147,13 +147,13 @@ _**Technician**_
 **EDUCATION**
 
 ---
-_**ITT Technical Institute**_, Hoffman Estates, Illinois 
+_**ITT Technical Institute**_, Hoffman Estates, Illinois <br>
 Graduated with a Bachelor's degree, with honors, in Electronic Engineering Technology
 
-_**College of Lake County**_
+_**College of Lake County**_, Grayslake, Illinois <br>
 Graduated with an Associate degree in Electronic Engineering Technology                             
 
-_**Sterling School of Drafting and Design**_
+_**Sterling School of Drafting and Design**_ <br>
 Certificate, Auto CAD 2000 Level I and II
 
 ---
