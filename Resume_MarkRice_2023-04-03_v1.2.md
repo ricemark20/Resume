@@ -1,6 +1,6 @@
 ## Mark Rice
 
-524 S. Main Street, Wauconda, IL 60084
+Cynthiana, KY  41031
 
 Phone: 224-944-2200
 
