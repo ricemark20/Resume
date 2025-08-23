@@ -2,7 +2,7 @@
 
 Cynthiana, KY  41031
 
-Phone: 224-944-2200
+Phone: 859-569-2253
 
 Email: ricemark20@gmail.com <br>
 
@@ -17,11 +17,40 @@ Experience soldering fine-pitch surface mount components.          <br>
 Experience troubleshooting circuit boards to the component level.  <br>
 Other skills: Diagnostics, Testing, Medical device repair, IPC     <br>
 soldering, Trained in FDA documentation.                           <br>
-Computer skills: Proficient in Windows 10 and Fedora Linux.
+Computer skills: Proficient in Windows 10 and Several Linux variations.
 
 <br>
 
 **EXPERIENCE**
+
+---
+  _**Resource Mfg.**_, Georgetown, KY <br> July 2023 to August 2025
+
+_**Line Loader, Toyota Tsusho, Georgetown, KY, March 2024 to August 2025**_
+
+- Load the Advics stations with totes using a pallet jack.   
+- Shuttle in empty totes for the line to repack brake
+  cylinders, with the goal of helping my team members approach 100% efficiency. 
+- Remove and replaced cardboard recycling bins as needed.
+
+
+_**Kitting Department, Toyota Tsusho, Georgetown, KY, January 2024 to March 2024**_
+
+- Assembled automotive recall kits for Toyota.
+- Cleaned adhesive off of international metal mods (modules) for the purpose of avoiding exporting 
+      invasive seeds to Japan. 
+- The methods implemented were used in other US facilities.
+
+_**Sorting Department, Penske, Georgetown, KY, March 2024 to August 2025**_
+
+- Accurately matched numbers & letters.
+- Accurately staged and sorted products for loading.
+- Maintained a clean and safe work area.
+
+_**Kitting Department, Toyota Tsusho, Georgetown, KY, January 2024 to March 2024**_
+
+- Assembled automotive recall kits for Toyota.
+- Cleaned adhesive off of international metal mods (modules) 
 
 ---
   _**Fanuc America Corporation**_, Hoffman Estates, IL <br> January 2022 to March 2023
@@ -131,7 +160,7 @@ _**Builder**_
 -   Assembled and tested servers. Added components, including RAM, CPU and hard drives, and wired the servers.
 
 ---
-  _*Baxter Healthcare*_, Buffalo Grove, IL - Contracted 2 yrs./Permanent 5 yrs.  <br> Oct. 2000 to May 2007
+  _**Baxter Healthcare**_, Buffalo Grove, IL - Contracted 2 yrs./Permanent 5 yrs.  <br> Oct. 2000 to May 2007
 
 _**Technician**_
 
@@ -169,5 +198,11 @@ July 2022
 
 Maintain a network of Raspberry Pi's and other computers on a home network, with a focus on the Linux command line.                                          
 May 2015 to Present
+
+---
+
+Podcaster and contributor to Hobby Public Radio shows
+
+December 2015 to Present
 
 ---
